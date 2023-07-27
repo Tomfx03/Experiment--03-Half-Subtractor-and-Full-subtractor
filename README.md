@@ -1,5 +1,5 @@
 # Experiment 04 Half Subtractor and Full subtractor
-#### Name: Tom farncies xaviour
+#### Name: Tom farncies xaviour.L
 #### Register number: 23007644
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
