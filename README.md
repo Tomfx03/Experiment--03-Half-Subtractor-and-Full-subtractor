@@ -59,10 +59,15 @@ Diff = A ⊕ B ⊕ C B = A'C + A'B + BC
 ## Program:
 
 module fullsub(diff,carry,a,b,c);
+
 input a,b,c;
+
 output diff,carry;
+
 xor(diff,a,b,c);
+
 assign carry= (~a)&c | (~a)&b | (b&c);
+
 endmodule
 
 
